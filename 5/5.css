@@ -1,0 +1,38 @@
+.wrapper {
+    background-color: beige;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input1,
+.input2 {
+    width: 300px;
+    height: 20px;
+    color: rgb(16, 22, 20);
+    margin: 5px;
+}
+
+.btn {
+    width: 300px;
+    height: 20px;
+    background-color: violet;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.card {
+    width: 300px;
+}
+
+.card img {
+    width: 100%;
+}
+
+
+.result {
+    width: 300px;
+    height: 300px;
+    background-color: cadetblue;
+}

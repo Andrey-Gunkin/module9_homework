@@ -1,0 +1,42 @@
+form {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+}
+
+.input {
+    width: 140px;
+    font-size: 14px;
+}
+
+.btn {
+    width: 150px;
+    background-color: lightgray;
+    color: slategray;
+    margin: 10px 0px;
+    border: solid 0.5 px gray;
+}
+
+.btn:hover {
+    color: blue;
+    background-color: cornflowerblue;
+}
+
+.result {
+    display: flex;
+    width: 200px;
+    margin: 0px 0px 0px 30px;
+    color: darkslategrey;
+}
+
+.card {
+    text-align: center;
+    padding: 5px;
+    margin: 20px;
+    background-color: beige;
+}
+
+.card-image {
+    width: 100px;
+    height: 80px;
+}
